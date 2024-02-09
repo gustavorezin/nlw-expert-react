@@ -26,3 +26,7 @@
 
 - npm i sonner
 - configurar no `main.tsx`
+
+## SpeechRecognition (gravador)
+
+- npm i -D @types/dom-speech-recognition
